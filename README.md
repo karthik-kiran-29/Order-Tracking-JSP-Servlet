@@ -164,22 +164,6 @@ Validations:
 
 ---
 
-### View Order Record Flow
-
-#### View Order Form
-![View Order Form](screenshots/view-order-form.png)
-*Form to search order by customer name and order date*
-
-#### Order Found - Display Details
-![Order Details](screenshots/order-details-found.png)
-*Display page showing matching order details*
-
-#### Order Not Found
-![Order Not Found](screenshots/order-not-found.png)
-*Display page with message "No matching records exists! Please try again!"*
-
----
-
 ### View All Orders Flow
 
 #### View All Orders Form
