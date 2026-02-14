@@ -143,7 +143,7 @@ Validations:
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/menu.png)
+<img width="702" height="431" alt="image" src="https://github.com/user-attachments/assets/46fc975f-1ce7-41a8-9b0e-f851c6f18713" />
 *Main menu with navigation options: Add Order Record, View Order Record, View All Orders*
 
 ---
@@ -151,28 +151,16 @@ Validations:
 ### Add Order Record Flow
 
 #### Add Order Form
-![Add Order Form](screenshots/add-order-form.png)
+<img width="946" height="494" alt="image" src="https://github.com/user-attachments/assets/be329165-e58f-4efb-9812-4b42dbfbcdaf" />
 *Form to enter new order details: customer name, order item, dates, status, remarks*
 
 #### Successful Order Addition
-![Success Page](screenshots/add-order-success.png)
+<img width="738" height="433" alt="image" src="https://github.com/user-attachments/assets/4ad974bc-16af-445a-8a44-1b12ba821b4b" />
 *Success page displaying "Added successfully"*
 
 #### Order Addition Error
-![Error Page](screenshots/add-order-error.png)
+<img width="706" height="284" alt="image" src="https://github.com/user-attachments/assets/e57b61ac-fdfb-4d15-9025-ac35097f8aa3" />
 *Error page displaying "Error! Please try again!"*
-
-#### Invalid Customer Name
-![Invalid Customer Name](screenshots/invalid-customer-name.png)
-*Validation error for customer name less than 2 characters*
-
-#### Invalid Order Item
-![Invalid Order Item](screenshots/invalid-order-item.png)
-*Validation error for order item less than 2 characters*
-
-#### Duplicate Order Error
-![Duplicate Order](screenshots/duplicate-order.png)
-*Error message when order already exists for customer and date*
 
 ---
 
@@ -195,16 +183,11 @@ Validations:
 ### View All Orders Flow
 
 #### View All Orders Form
-![View All Orders Form](screenshots/view-all-orders-form.png)
+<img width="760" height="491" alt="image" src="https://github.com/user-attachments/assets/2c199376-a68d-49bd-9f91-0b736d3d92f0" />
 *Form to trigger viewing all orders*
 
-#### All Orders Display
-![All Orders List](screenshots/all-orders-display.png)
-*Display page showing list of all orders in the system*
+<img width="815" height="341" alt="image" src="https://github.com/user-attachments/assets/5c7b6bc7-3883-477b-9c2a-430a485c00b5" />
 
-#### No Orders Available
-![No Orders](screenshots/no-orders-available.png)
-*Display page with message "No records available!" when database is empty*
 
 ---
 
